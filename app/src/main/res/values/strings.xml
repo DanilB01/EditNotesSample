@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SampleProject</string>
+
+    <string name="title">Заголовок</string>
+    <string name="enterTitle">Введите заголовок</string>
+    <string name="description">Описание</string>
+    <string name="dateOfDoingTask">Срок выполнения задачи</string>
+    <string name="save">Сохранить</string>
+    <string name="addCategory">Добавить категорию</string>
+    <string name="enterCategory">Введите категорию</string>
+    <string name="cancelling">Отмена</string>
+    <string name="saving">Сохранение...</string>
+    <string name="note">Заметка</string>
+</resources>
